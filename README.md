@@ -1,2 +1,4 @@
 # codewars!
-[large](https://user-images.githubusercontent.com/63474335/171483151-187b5b05-cc4c-4689-9756-bc727558d162.svg)
+
+![image](https://user-images.githubusercontent.com/63474335/171483382-04f58863-f639-4dbc-a9f9-7063f6c7083c.png)
+
