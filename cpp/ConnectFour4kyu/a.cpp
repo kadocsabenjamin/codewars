@@ -76,7 +76,7 @@ std::string who_is_winner(std::vector<std::string> pieces_position_list) {
     return "Draw";
 }
 
-////////////////////////////////
+///////////////////////////////
 
 int main() {
     std::cout << who_is_winner({"C_Yellow", "E_Red",
